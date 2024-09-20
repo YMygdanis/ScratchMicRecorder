@@ -120,4 +120,4 @@ say (join [Recordings: ] (join (recordings) [, ])) for (3) seconds `
 
 ##   
 
-## Disclaimer: This extension is experimental and not affiliated with or endorsed by the official Scratch team.
+* Disclaimer: This extension is experimental and not affiliated with or endorsed by the official Scratch team. *
