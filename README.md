@@ -116,8 +116,6 @@ say (join [Recordings: ] (join (recordings) [, ])) for (3) seconds `
 -   **Microphone Permission**: Ensure you grant microphone access when prompted by the browser.
 -   **Extension Not Loading**: Verify the URL is correct and the file is hosted over HTTPS.
 -   **Sound Not Playing**: Check that the recording exists and the volume is set above 0%.
--   **No Recordings Listed**: Make sure you've recorded sounds before attempting to retrieve the list.
+-   **No Recordings Listed**: Make sure you've recorded sounds before attempting to retrieve the list. 
 
-##   
-
-* *(Optional: Add a logo image for visual appeal.)* Disclaimer: This extension is experimental and not affiliated with or endorsed by the official Scratch team. *
+Disclaimer: This extension is experimental and not affiliated with or endorsed by the official Scratch team. 
